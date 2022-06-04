@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-test-atlana/static/css/main.b82a00ea.css",
+    "main.js": "/react-test-atlana/static/js/main.85dea59d.js",
+    "static/js/787.13273976.chunk.js": "/react-test-atlana/static/js/787.13273976.chunk.js",
+    "static/media/photo-cover.svg": "/react-test-atlana/static/media/photo-cover.fb98cf13a87225efe558669bdc541ac7.svg",
+    "index.html": "/react-test-atlana/index.html",
+    "main.b82a00ea.css.map": "/react-test-atlana/static/css/main.b82a00ea.css.map",
+    "main.85dea59d.js.map": "/react-test-atlana/static/js/main.85dea59d.js.map",
+    "787.13273976.chunk.js.map": "/react-test-atlana/static/js/787.13273976.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b82a00ea.css",
+    "static/js/main.85dea59d.js"
+  ]
+}
